@@ -321,3 +321,5 @@ main {
   align-self: flex-start;
   min-width: 2rem;
 }
+
+.hide {display: none;}
